@@ -1,8 +1,9 @@
-## openmap-data
+# openmap-data
+
 
 Background layer used by OpenMap in GDS, GeoView and ChartCatalogue. Based on public available data.
 
-# Maven
+## Maven
 
 ```
 <repository>

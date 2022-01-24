@@ -8,7 +8,7 @@ Background layer used by OpenMap in GDS, GeoView and ChartCatalogue. Based on pu
 ```
 <repository>
     <id>ECC</id>
-    <url>https://github.com/ElectronicChartCentre/ecc-mvn-repo/raw/master/releases</url>
+    <url>https://maven.ecc.no/releases</url>
 </repository>
 
 <dependency>
